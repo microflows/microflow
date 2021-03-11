@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/80379301?s=200"/>
+<img src="https://avatars.githubusercontent.com/u/80379301?s=150"/>
 <h1>MicroFlow</h1>
 <p>
 Multi-language programming collaboration platform based on microservices
