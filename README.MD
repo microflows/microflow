@@ -20,7 +20,7 @@ Multi-language programming collaboration platform based on microservices
 
 Please hop over to [Github discussions](https://github.com/microflows/microflow/discussions) or join our Discord server:
 
-<iframe src="https://discord.com/widget?id=813599680713457665&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[Discord chatroom](https://discord.com/invite/wGSABhbCzN)
 
 ## 📝 License
 
