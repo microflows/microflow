@@ -9,25 +9,24 @@ Multi-language programming collaboration platform based on microservices
 <a href="https://discord.com/invite/wGSABhbCzN"><img src="https://img.shields.io/discord/813599680713457665?label=chat&logo=discord&color=379c9c&style=flat-square"/></a>
 </div>
 
-## ![checkered_flag](https://github.githubassets.com/images/icons/emoji/unicode/1f3c1.png)Getting Start
+## 🏁 Getting Start
 
-[TOC]
 
-## ![hourglass](https://github.githubassets.com/images/icons/emoji/unicode/231b.png) Status
+## ⌛ Status
 
 - [ ] Designing and developing, see more details in [Discussions](https://github.com/microflows/microflow/discussions)
 
-## ![speech_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png) Get in touch
+## 💬 Get in touch
 
 Please hop over to [Github discussions](https://github.com/microflows/microflow/discussions) or join our Discord server:
 
 [Discord chatroom](https://discord.com/invite/wGSABhbCzN)
 
-## ![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png) License
+## 📝 License
 
 
 
-## ![sparkles](https://github.githubassets.com/images/icons/emoji/unicode/2728.png)Contributors
+## Contributors✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
