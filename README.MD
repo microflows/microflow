@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/80379301?s=150"/>
 <h1>MicroFlow</h1>
 <p>
-Multi-language programming collaboration platform based on microservices
+Mixed-language programming and collaboration platform based on microservices
 </p>
 <a href="https://github.com/microflows/microflow/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/microflows/microflow?color=379c9c&style=flat-square"/></a>
 <a href="https://github.com/microflows/microflow/stargazers"><img src="https://img.shields.io/github/stars/microflows/microflow?color=379c9c&style=flat-square"/></a>
