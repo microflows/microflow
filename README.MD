@@ -1,9 +1,16 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/80379301?s=150"/>
 <h1>MicroFlow</h1>
+   <p>
+The
+</p>
+ <p>
+Next-generation global-scale decentralized collaboration system
+</p>
 <p>
 Mixed-language programming and collaboration platform based on microservices
 </p>
+  
 <a href="https://github.com/microflows/microflow/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/microflows/microflow?color=379c9c&style=flat-square"/></a>
 <a href="https://github.com/microflows/microflow/stargazers"><img src="https://img.shields.io/github/stars/microflows/microflow?color=379c9c&style=flat-square"/></a>
 <a href="https://discord.com/invite/wGSABhbCzN"><img src="https://img.shields.io/discord/813599680713457665?label=chat&logo=discord&color=379c9c&style=flat-square"/></a>
