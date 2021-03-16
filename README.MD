@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/80379301?s=150"/>
 <h1>MicroFlow</h1>
    <p>
-The next-generation
+The next-generation of
 </p>
  <p>
 Global-scale Decentralized Collaboration System
