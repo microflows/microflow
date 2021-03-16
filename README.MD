@@ -8,7 +8,7 @@ The next-generation
 Global-scale Decentralized Collaboration System
 </p>
 <p>
-Mixed-language Programming and Collaboration Platform
+Mixed-language Programming Platform
 </p>
  <p>
 Microservice Agile Development System
