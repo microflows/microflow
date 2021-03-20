@@ -33,7 +33,7 @@ Please hop over to [Github discussions](https://github.com/microflows/microflow/
 
 [Discord chatroom](https://discord.com/invite/wGSABhbCzN)
 
- - We build a specification to bring people's strengths together. This specification should be simple enough and easy to implement.
+ - We build a specification to bring people's strengths together which is simple enough and easy to implement.
  - We build a economic system to attract people to take part in and par for each other.
  - We think about computer science from the perspective of social science.
 
